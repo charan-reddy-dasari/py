@@ -6,3 +6,5 @@ print(arr[:,1:2])
 for row in arr:
     for i in row:
         print(i, end = " ")
+
+print("charan reddy")
